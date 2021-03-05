@@ -18,3 +18,5 @@ Files and description:
 2. Network entropy python script: computes network entropy from nodelist and edgelist
 3. Tab files: Raw RNA-seq counts
 4. deseq2 and functional enrichment: Differential expression gene lists and functional enrichment results
+
+For further details about mathemtical basis of network entropy, please check GitHub: menicgiulia/Code_network_ensembles
