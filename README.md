@@ -11,7 +11,7 @@ Link to ShinyApp that classifies genes based on Hallmarks of aging and vice-vers
 https://sruthisivakumar.shinyapps.io/HallmarksAgingGenes/
 
 Link to the network entropy calculator website:
-https://network-entropy-calculator.herokuapp.com/
+https://network-entropy-calculator.streamlit.app/
 
 Files and description: 
 1. Preprocessing jupyter notebook: creates protein-protein interaction network from RNA seq data
